@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "url": "https://github.com/kinderpingui92-creator/L2-Monitor/releases/download/v1.1/L2_Monitor.exe",
-  "notes": "Тихий запуск сразу в трей без чёрного окна, просмотр лога и автозапуск с Windows."
+  "version": "1.2",
+  "url": "https://github.com/kinderpingui92-creator/L2-Monitor/releases/download/v1.2/L2_Monitor.exe",
+  "notes": "Сжатие скриншотов в JPEG для быстрой отправки на удалёнке и резервный текстовый отчёт."
 }
